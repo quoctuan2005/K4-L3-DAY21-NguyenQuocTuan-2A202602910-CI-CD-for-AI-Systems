@@ -3,4 +3,4 @@ outs:
   size: 1126076
   hash: md5
   path: train_batch1.csv
-# batch 2: 44722 samples
+# updated with train_batch2: total 44722 samples
